@@ -6,9 +6,9 @@
 #  default_endpoint_url: 'https://demo.docusign.net/api/3.0/api.asmx'
 #  credential_endpoint_url: 'https://demo.docusign.net/api/3.0/Credential.asmx'
 development:
-  user_name: ''
-  password: ''
-  integrators_key: ''
-  account_id: ''
+  user_name: '11a6b302-c89d-4c62-a490-16b2714916f1'
+  password: 'sud#9986'
+  integrators_key: 'debdf69d-e032-4769-ad44-23f3ff5112e2'
+  account_id: '6e5e245a-26f0-470d-b4f8-42b5bd005280'
   default_endpoint_url: 'https://demo.docusign.net/api/3.0/api.asmx'
   credential_endpoint_url: 'https://demo.docusign.net/api/3.0/Credential.asmx'
